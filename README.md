@@ -1,5 +1,5 @@
 # TodoListProject
-Creating a simple todo list using basic JavaScript methods.
+The goal of this project is to use basic JavaScript methods.
 
 ----- index.html -----
 
